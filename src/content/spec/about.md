@@ -1,6 +1,6 @@
 ---
 title: 关于
-pubDate: 2024-12-06
+pubDate: 2025-05-26
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+程序员，目前居住在合肥，喜欢学习编程知识，热衷于探索新技术和工具。最近拾起了读书的兴趣，主要是文学和社会科学方面的书籍。希望能通过这个博客记录自己的学习和思考。
